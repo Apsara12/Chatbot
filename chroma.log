@@ -1,0 +1,1171 @@
+[33mWARNING[0m:  [01-02-2024 11:09:15] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [01-02-2024 11:09:16] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [01-02-2024 11:09:16] Starting component System
+[36mDEBUG[0m:    [01-02-2024 11:09:16] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [01-02-2024 11:09:16] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [01-02-2024 11:09:16] Starting component SqliteDB
+[36mDEBUG[0m:    [01-02-2024 11:09:18] Starting component Posthog
+[36mDEBUG[0m:    [01-02-2024 11:09:18] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [01-02-2024 11:09:18] Starting component SegmentAPI
+[32mINFO[0m:     [01-02-2024 11:09:18] Started server process [[36m14420[0m]
+[32mINFO[0m:     [01-02-2024 11:09:18] Waiting for application startup.
+[32mINFO[0m:     [01-02-2024 11:09:18] Application startup complete.
+[32mINFO[0m:     [01-02-2024 11:09:18] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [01-02-2024 11:11:34] Shutting down
+[32mINFO[0m:     [01-02-2024 11:11:34] Waiting for application shutdown.
+[32mINFO[0m:     [01-02-2024 11:11:34] Application shutdown complete.
+[32mINFO[0m:     [01-02-2024 11:11:34] Finished server process [[36m14420[0m]
+[33mWARNING[0m:  [01-02-2024 11:28:46] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [01-02-2024 11:28:47] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [01-02-2024 11:28:48] Starting component System
+[36mDEBUG[0m:    [01-02-2024 11:28:48] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [01-02-2024 11:28:48] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [01-02-2024 11:28:48] Starting component SqliteDB
+[36mDEBUG[0m:    [01-02-2024 11:28:50] Starting component Posthog
+[36mDEBUG[0m:    [01-02-2024 11:28:50] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [01-02-2024 11:28:50] Starting component SegmentAPI
+[32mINFO[0m:     [01-02-2024 11:28:50] Started server process [[36m10196[0m]
+[32mINFO[0m:     [01-02-2024 11:28:50] Waiting for application startup.
+[32mINFO[0m:     [01-02-2024 11:28:50] Application startup complete.
+[32mINFO[0m:     [01-02-2024 11:28:50] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [01-02-2024 11:29:54] ::1:61826 - "GET / HTTP/1.1" 404
+[32mINFO[0m:     [01-02-2024 11:29:55] ::1:61826 - "GET /favicon.ico HTTP/1.1" 404
+[32mINFO[0m:     [01-02-2024 11:32:20] Shutting down
+[32mINFO[0m:     [01-02-2024 11:32:20] Waiting for application shutdown.
+[32mINFO[0m:     [01-02-2024 11:32:20] Application shutdown complete.
+[32mINFO[0m:     [01-02-2024 11:32:20] Finished server process [[36m10196[0m]
+[33mWARNING[0m:  [01-02-2024 11:36:02] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [01-02-2024 11:36:03] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [01-02-2024 11:36:03] Starting component System
+[36mDEBUG[0m:    [01-02-2024 11:36:03] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [01-02-2024 11:36:03] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [01-02-2024 11:36:03] Starting component SqliteDB
+[36mDEBUG[0m:    [01-02-2024 11:36:03] Starting component Posthog
+[36mDEBUG[0m:    [01-02-2024 11:36:03] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [01-02-2024 11:36:03] Starting component SegmentAPI
+[32mINFO[0m:     [01-02-2024 11:36:03] Started server process [[36m5928[0m]
+[32mINFO[0m:     [01-02-2024 11:36:03] Waiting for application startup.
+[32mINFO[0m:     [01-02-2024 11:36:03] Application startup complete.
+[32mINFO[0m:     [01-02-2024 11:36:03] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [01-02-2024 11:36:11] ::1:61857 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 11:37:34] ::1:61873 - "GET / HTTP/1.1" 404
+[31mERROR[0m:    [01-02-2024 11:41:03] Collection my_collection already exists
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\streams\memory.py", line 97, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\streams\memory.py", line 92, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\streams\memory.py", line 112, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\server\fastapi\__init__.py", line 80, in catch_exceptions_middleware
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 165, in call_next
+    raise app_exc
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 151, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 189, in __call__
+    with collapse_excgroups():
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\_utils.py", line 91, in collapse_excgroups
+    raise exc
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 191, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\server\fastapi\__init__.py", line 94, in check_http_version_middleware
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 165, in call_next
+    raise app_exc
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 151, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\fastapi\routing.py", line 299, in app
+    raise e
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\fastapi\routing.py", line 294, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\fastapi\routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\_backends\_asyncio.py", line 2134, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\_backends\_asyncio.py", line 851, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\telemetry\opentelemetry\__init__.py", line 127, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\auth\fastapi.py", line 234, in wrapped
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\server\fastapi\__init__.py", line 408, in create_collection
+    return self._api.create_collection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\telemetry\opentelemetry\__init__.py", line 127, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\api\segment.py", line 166, in create_collection
+    coll, created = self._sysdb.create_collection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\telemetry\opentelemetry\__init__.py", line 127, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\db\mixins\sysdb.py", line 225, in create_collection
+    raise UniqueConstraintError(f"Collection {name} already exists")
+chromadb.db.base.UniqueConstraintError: Collection my_collection already exists
+[32mINFO[0m:     [01-02-2024 11:41:04] ::1:61905 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 500
+[31mERROR[0m:    [01-02-2024 11:41:50] Collection my_collection already exists
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\streams\memory.py", line 97, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\streams\memory.py", line 92, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\streams\memory.py", line 112, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\server\fastapi\__init__.py", line 80, in catch_exceptions_middleware
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 165, in call_next
+    raise app_exc
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 151, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 189, in __call__
+    with collapse_excgroups():
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\_utils.py", line 91, in collapse_excgroups
+    raise exc
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 191, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\server\fastapi\__init__.py", line 94, in check_http_version_middleware
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 165, in call_next
+    raise app_exc
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 151, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\fastapi\routing.py", line 299, in app
+    raise e
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\fastapi\routing.py", line 294, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\fastapi\routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\_backends\_asyncio.py", line 2134, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\_backends\_asyncio.py", line 851, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\telemetry\opentelemetry\__init__.py", line 127, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\auth\fastapi.py", line 234, in wrapped
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\server\fastapi\__init__.py", line 408, in create_collection
+    return self._api.create_collection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\telemetry\opentelemetry\__init__.py", line 127, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\api\segment.py", line 166, in create_collection
+    coll, created = self._sysdb.create_collection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\telemetry\opentelemetry\__init__.py", line 127, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\db\mixins\sysdb.py", line 225, in create_collection
+    raise UniqueConstraintError(f"Collection {name} already exists")
+chromadb.db.base.UniqueConstraintError: Collection my_collection already exists
+[32mINFO[0m:     [01-02-2024 11:41:51] ::1:61908 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 500
+[31mERROR[0m:    [01-02-2024 11:42:07] Collection my_collection already exists
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\streams\memory.py", line 97, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\streams\memory.py", line 92, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\streams\memory.py", line 112, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\server\fastapi\__init__.py", line 80, in catch_exceptions_middleware
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 165, in call_next
+    raise app_exc
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 151, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 189, in __call__
+    with collapse_excgroups():
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\_utils.py", line 91, in collapse_excgroups
+    raise exc
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 191, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\server\fastapi\__init__.py", line 94, in check_http_version_middleware
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 165, in call_next
+    raise app_exc
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 151, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\fastapi\routing.py", line 299, in app
+    raise e
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\fastapi\routing.py", line 294, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\fastapi\routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\_backends\_asyncio.py", line 2134, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\_backends\_asyncio.py", line 851, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\telemetry\opentelemetry\__init__.py", line 127, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\auth\fastapi.py", line 234, in wrapped
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\server\fastapi\__init__.py", line 408, in create_collection
+    return self._api.create_collection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\telemetry\opentelemetry\__init__.py", line 127, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\api\segment.py", line 166, in create_collection
+    coll, created = self._sysdb.create_collection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\telemetry\opentelemetry\__init__.py", line 127, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\db\mixins\sysdb.py", line 225, in create_collection
+    raise UniqueConstraintError(f"Collection {name} already exists")
+chromadb.db.base.UniqueConstraintError: Collection my_collection already exists
+[32mINFO[0m:     [01-02-2024 11:42:07] ::1:61909 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 500
+[32mINFO[0m:     [01-02-2024 11:42:31] ::1:61910 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 11:44:59] ::1:61914 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 11:50:47] ::1:61952 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 11:53:01] ::1:61963 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:01:06] ::1:62036 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:01:07] ::1:62036 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [01-02-2024 12:01:07] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [01-02-2024 12:01:08] ::1:62039 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:01:47] ::1:62045 - "GET / HTTP/1.1" 404
+[32mINFO[0m:     [01-02-2024 12:01:49] ::1:62045 - "GET / HTTP/1.1" 404
+[32mINFO[0m:     [01-02-2024 12:01:50] ::1:62045 - "GET / HTTP/1.1" 404
+[32mINFO[0m:     [01-02-2024 12:01:51] ::1:62045 - "GET / HTTP/1.1" 404
+[32mINFO[0m:     [01-02-2024 12:01:51] ::1:62045 - "GET / HTTP/1.1" 404
+[32mINFO[0m:     [01-02-2024 12:01:51] ::1:62045 - "GET / HTTP/1.1" 404
+[32mINFO[0m:     [01-02-2024 12:01:52] ::1:62045 - "GET / HTTP/1.1" 404
+[32mINFO[0m:     [01-02-2024 12:01:52] ::1:62045 - "GET / HTTP/1.1" 404
+[32mINFO[0m:     [01-02-2024 12:01:52] ::1:62045 - "GET / HTTP/1.1" 404
+[32mINFO[0m:     [01-02-2024 12:03:42] ::1:62053 - "GET /mycollection HTTP/1.1" 404
+[32mINFO[0m:     [01-02-2024 12:10:40] ::1:62108 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:10:40] ::1:62109 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:10:41] ::1:62108 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:10:41] ::1:62109 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:10:41] ::1:62108 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:10:41] ::1:62109 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:12:09] ::1:62116 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:12:10] ::1:62116 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:12:11] ::1:62118 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:13:55] ::1:62130 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:13:58] ::1:62130 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:13:59] ::1:62132 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:17:21] ::1:62144 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:17:22] ::1:62144 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:17:22] ::1:62146 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:22:43] ::1:62195 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:22:44] ::1:62195 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:22:44] ::1:62197 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:22:48] ::1:62198 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:22:48] ::1:62199 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:22:48] ::1:62198 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:22:48] ::1:62199 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:22:49] ::1:62198 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:22:49] ::1:62202 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:23:20] ::1:62208 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:23:20] ::1:62208 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:23:21] ::1:62210 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:27:16] ::1:62220 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:27:19] ::1:62220 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:27:19] ::1:62222 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:27:20] ::1:62220 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/query HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:28:56] ::1:62225 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:28:56] ::1:62226 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:28:57] ::1:62225 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:28:57] ::1:62226 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:28:58] ::1:62225 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:28:58] ::1:62226 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:28:58] ::1:62225 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/query HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:28:58] ::1:62225 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/query HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:34:48] ::1:62266 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:34:48] ::1:62267 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:34:49] ::1:62266 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:34:49] ::1:62267 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:34:49] ::1:62266 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:34:49] ::1:62267 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:34:50] ::1:62266 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/query HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:34:50] ::1:62266 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/query HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:35:17] ::1:62273 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:35:18] ::1:62273 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:35:18] ::1:62275 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:50:56] ::1:62348 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:50:57] ::1:62348 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:50:57] ::1:62351 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:51:25] ::1:62355 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:51:26] ::1:62355 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:51:27] ::1:62357 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:59:52] ::1:62409 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:59:53] ::1:62409 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 12:59:53] ::1:62412 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 13:00:12] ::1:62414 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/query HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 13:00:14] ::1:62414 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 13:00:14] ::1:62414 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 13:00:14] ::1:62415 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 13:00:50] ::1:62417 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 13:00:51] ::1:62417 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 13:00:51] ::1:62419 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 13:14:59] ::1:62497 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 13:15:00] ::1:62497 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [01-02-2024 13:15:00] ::1:62500 - "POST /api/v1/collections/ab7a3389-17f6-4246-9697-0d712955cf77/upsert HTTP/1.1" 200
+[33mWARNING[0m:  [02-02-2024 08:03:57] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [02-02-2024 08:03:58] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [02-02-2024 08:03:58] Starting component System
+[36mDEBUG[0m:    [02-02-2024 08:03:58] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [02-02-2024 08:03:58] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [02-02-2024 08:03:58] Starting component SqliteDB
+[36mDEBUG[0m:    [02-02-2024 08:03:58] Starting component Posthog
+[36mDEBUG[0m:    [02-02-2024 08:03:58] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [02-02-2024 08:03:58] Starting component SegmentAPI
+[32mINFO[0m:     [02-02-2024 08:03:58] Started server process [[36m7388[0m]
+[32mINFO[0m:     [02-02-2024 08:03:58] Waiting for application startup.
+[32mINFO[0m:     [02-02-2024 08:03:58] Application startup complete.
+[32mINFO[0m:     [02-02-2024 08:03:58] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [02-02-2024 08:08:36] ::1:59508 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:08:37] ::1:59508 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [02-02-2024 08:08:37] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [02-02-2024 08:08:37] ::1:59511 - "POST /api/v1/collections/42e65b25-e737-4422-92c4-8ef5f4a57c42/upsert HTTP/1.1" 200
+[33mWARNING[0m:  [02-02-2024 08:08:38] Number of requested results 4 is greater than number of elements in index 1, updating n_results = 1
+[32mINFO[0m:     [02-02-2024 08:08:38] ::1:59508 - "POST /api/v1/collections/42e65b25-e737-4422-92c4-8ef5f4a57c42/query HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:09:31] ::1:59517 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:09:32] ::1:59517 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [02-02-2024 08:09:32] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [02-02-2024 08:09:32] ::1:59519 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[33mWARNING[0m:  [02-02-2024 08:09:33] Number of requested results 4 is greater than number of elements in index 1, updating n_results = 1
+[32mINFO[0m:     [02-02-2024 08:09:33] ::1:59517 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/query HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:13:04] ::1:59539 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:13:04] ::1:59540 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:13:05] ::1:59539 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:13:05] ::1:59539 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:13:05] ::1:59540 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:13:05] ::1:59543 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[33mWARNING[0m:  [02-02-2024 08:13:06] Number of requested results 4 is greater than number of elements in index 3, updating n_results = 3
+[32mINFO[0m:     [02-02-2024 08:13:06] ::1:59539 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/query HTTP/1.1" 200
+[33mWARNING[0m:  [02-02-2024 08:13:06] Number of requested results 4 is greater than number of elements in index 3, updating n_results = 3
+[32mINFO[0m:     [02-02-2024 08:13:06] ::1:59539 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/query HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:17:33] ::1:59586 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:17:33] ::1:59587 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:17:34] ::1:59586 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:17:34] ::1:59587 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:17:34] ::1:59586 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:17:34] ::1:59590 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:17:48] ::1:59592 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/query HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:17:56] ::1:59594 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/query HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:18:16] ::1:59611 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/query HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:18:25] ::1:59612 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:18:25] ::1:59613 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:18:26] ::1:59612 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:18:26] ::1:59613 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:18:27] ::1:59612 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 08:18:27] ::1:59613 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[33mWARNING[0m:  [02-02-2024 10:46:32] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [02-02-2024 10:46:32] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [02-02-2024 10:46:32] Starting component System
+[36mDEBUG[0m:    [02-02-2024 10:46:32] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [02-02-2024 10:46:32] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [02-02-2024 10:46:32] Starting component SqliteDB
+[36mDEBUG[0m:    [02-02-2024 10:46:32] Starting component Posthog
+[36mDEBUG[0m:    [02-02-2024 10:46:32] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [02-02-2024 10:46:32] Starting component SegmentAPI
+[32mINFO[0m:     [02-02-2024 10:46:33] Started server process [[36m12420[0m]
+[32mINFO[0m:     [02-02-2024 10:46:33] Waiting for application startup.
+[32mINFO[0m:     [02-02-2024 10:46:33] Application startup complete.
+[32mINFO[0m:     [02-02-2024 10:46:33] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [02-02-2024 10:47:19] ::1:50587 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 10:47:20] ::1:50587 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [02-02-2024 10:47:20] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [02-02-2024 10:47:20] ::1:50590 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 10:47:21] ::1:50587 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/query HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 11:04:00] ::1:50693 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 11:04:00] ::1:50694 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 11:04:01] Backing off send_request(...) for 0.2s (requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+[32mINFO[0m:     [02-02-2024 11:04:01] ::1:50693 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 11:04:01] ::1:50693 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 11:04:01] ::1:50694 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 11:04:01] ::1:50698 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 11:43:39] ::1:50918 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 11:43:39] ::1:50919 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 11:43:40] ::1:50918 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 11:43:40] ::1:50918 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 11:43:40] ::1:50919 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 11:43:40] ::1:50923 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 11:46:15] ::1:50937 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 11:46:15] ::1:50938 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 11:46:16] ::1:50937 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 11:46:16] ::1:50938 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 11:46:16] ::1:50941 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 11:46:16] ::1:50937 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:03:05] ::1:51069 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:03:05] ::1:51070 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:03:07] ::1:51069 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:03:07] ::1:51069 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:03:07] ::1:51070 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:03:07] ::1:51074 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[33mWARNING[0m:  [02-02-2024 12:10:00] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [02-02-2024 12:10:00] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [02-02-2024 12:10:00] Starting component System
+[36mDEBUG[0m:    [02-02-2024 12:10:00] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [02-02-2024 12:10:00] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [02-02-2024 12:10:00] Starting component SqliteDB
+[36mDEBUG[0m:    [02-02-2024 12:10:00] Starting component Posthog
+[36mDEBUG[0m:    [02-02-2024 12:10:00] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [02-02-2024 12:10:00] Starting component SegmentAPI
+[32mINFO[0m:     [02-02-2024 12:10:01] Started server process [[36m14216[0m]
+[32mINFO[0m:     [02-02-2024 12:10:01] Waiting for application startup.
+[32mINFO[0m:     [02-02-2024 12:10:01] Application startup complete.
+[32mINFO[0m:     [02-02-2024 12:10:01] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [02-02-2024 12:10:27] ::1:51140 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:10:27] ::1:51139 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:10:28] ::1:51139 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [02-02-2024 12:10:28] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [02-02-2024 12:10:28] ::1:51140 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:10:28] ::1:51139 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:10:28] ::1:51140 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:11:18] ::1:51147 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:11:18] ::1:51147 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:11:18] ::1:51149 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:11:43] ::1:51152 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:11:45] ::1:51152 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:11:45] ::1:51154 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:13:01] ::1:51180 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:13:03] ::1:51180 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:13:03] ::1:51182 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:14:03] ::1:51186 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:14:04] ::1:51186 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:14:04] ::1:51188 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:17:41] ::1:51197 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:17:42] ::1:51197 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:17:42] ::1:51199 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:17:49] ::1:51201 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/query HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:19:21] ::1:51204 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:19:22] ::1:51204 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:19:22] ::1:51206 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:20:08] ::1:51208 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:20:09] ::1:51208 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:20:09] ::1:51210 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:20:18] ::1:51212 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/query HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:39:29] ::1:51330 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:39:30] ::1:51330 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:39:30] ::1:51333 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:39:36] ::1:51339 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/query HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:40:24] ::1:51342 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:40:24] ::1:51342 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:40:24] ::1:51344 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:40:28] ::1:51342 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/query HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:41:51] ::1:51347 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:41:52] ::1:51347 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:41:52] ::1:51349 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:59:27] ::1:51418 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:59:29] ::1:51418 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 12:59:29] ::1:51421 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:02:56] ::1:51427 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:02:58] ::1:51427 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:02:58] ::1:51429 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:12:18] ::1:51466 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:12:19] ::1:51466 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:12:19] ::1:51469 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:14:32] ::1:51494 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:14:33] ::1:51494 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:14:33] ::1:51496 - "POST /api/v1/collections/9a4c2390-f1fc-48b7-8478-ab9d164ce239/upsert HTTP/1.1" 200
+[33mWARNING[0m:  [02-02-2024 13:22:30] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [02-02-2024 13:22:30] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [02-02-2024 13:22:30] Starting component System
+[36mDEBUG[0m:    [02-02-2024 13:22:30] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [02-02-2024 13:22:30] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [02-02-2024 13:22:30] Starting component SqliteDB
+[36mDEBUG[0m:    [02-02-2024 13:22:31] Starting component Posthog
+[36mDEBUG[0m:    [02-02-2024 13:22:31] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [02-02-2024 13:22:31] Starting component SegmentAPI
+[32mINFO[0m:     [02-02-2024 13:22:31] Started server process [[36m2312[0m]
+[32mINFO[0m:     [02-02-2024 13:22:31] Waiting for application startup.
+[32mINFO[0m:     [02-02-2024 13:22:31] Application startup complete.
+[32mINFO[0m:     [02-02-2024 13:22:31] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[31mERROR[0m:    [02-02-2024 13:22:52] Collection 86790d2d-be6a-4dd6-9f1e-03f3f6fba2e7 already exists
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\db\mixins\sysdb.py", line 267, in create_collection
+    cur.execute(sql, params)
+sqlite3.IntegrityError: UNIQUE constraint failed: collections.name, collections.database_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\server\fastapi\__init__.py", line 80, in catch_exceptions_middleware
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 165, in call_next
+    raise app_exc
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 151, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 189, in __call__
+    with collapse_excgroups():
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\_utils.py", line 91, in collapse_excgroups
+    raise exc
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 191, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\server\fastapi\__init__.py", line 94, in check_http_version_middleware
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 165, in call_next
+    raise app_exc
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\base.py", line 151, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 762, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 782, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\fastapi\routing.py", line 299, in app
+    raise e
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\fastapi\routing.py", line 294, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\fastapi\routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\concurrency.py", line 40, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\_backends\_asyncio.py", line 2134, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\anyio\_backends\_asyncio.py", line 851, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\telemetry\opentelemetry\__init__.py", line 127, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\auth\fastapi.py", line 234, in wrapped
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\server\fastapi\__init__.py", line 408, in create_collection
+    return self._api.create_collection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\telemetry\opentelemetry\__init__.py", line 127, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\api\segment.py", line 166, in create_collection
+    coll, created = self._sysdb.create_collection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\telemetry\opentelemetry\__init__.py", line 127, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\db\mixins\sysdb.py", line 269, in create_collection
+    raise UniqueConstraintError(
+chromadb.db.base.UniqueConstraintError: Collection 86790d2d-be6a-4dd6-9f1e-03f3f6fba2e7 already exists
+[32mINFO[0m:     [02-02-2024 13:22:53] ::1:51530 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 500
+[32mINFO[0m:     [02-02-2024 13:22:53] ::1:51529 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:22:55] ::1:51529 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [02-02-2024 13:22:55] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [02-02-2024 13:22:56] ::1:51530 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:26:37] ::1:51563 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:26:38] ::1:51563 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:26:38] ::1:51565 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[33mWARNING[0m:  [02-02-2024 13:26:39] Number of requested results 4 is greater than number of elements in index 2, updating n_results = 2
+[32mINFO[0m:     [02-02-2024 13:26:39] ::1:51563 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:42:06] ::1:51622 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:42:06] ::1:51623 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:42:07] ::1:51622 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:42:07] ::1:51623 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:42:07] ::1:51627 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:42:07] ::1:51622 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:42:08] ::1:51622 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:42:08] ::1:51622 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:42:32] ::1:51629 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:42:32] ::1:51630 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:42:33] ::1:51629 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:42:33] ::1:51629 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:42:33] ::1:51630 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:42:33] ::1:51633 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:42:33] ::1:51629 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:42:34] ::1:51629 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:48:38] ::1:51680 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:48:40] ::1:51680 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:48:40] ::1:51682 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:48:46] ::1:51684 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:49:32] ::1:51698 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:49:33] ::1:51698 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:49:33] ::1:51700 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:53:24] ::1:51763 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:53:27] ::1:51763 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [02-02-2024 13:53:27] ::1:51765 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[33mWARNING[0m:  [05-02-2024 08:00:58] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [05-02-2024 08:00:59] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [05-02-2024 08:00:59] Starting component System
+[36mDEBUG[0m:    [05-02-2024 08:00:59] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [05-02-2024 08:00:59] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [05-02-2024 08:00:59] Starting component SqliteDB
+[36mDEBUG[0m:    [05-02-2024 08:00:59] Starting component Posthog
+[36mDEBUG[0m:    [05-02-2024 08:00:59] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [05-02-2024 08:00:59] Starting component SegmentAPI
+[32mINFO[0m:     [05-02-2024 08:00:59] Started server process [[36m5568[0m]
+[32mINFO[0m:     [05-02-2024 08:00:59] Waiting for application startup.
+[32mINFO[0m:     [05-02-2024 08:00:59] Application startup complete.
+[32mINFO[0m:     [05-02-2024 08:00:59] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [05-02-2024 08:02:38] ::1:53200 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:02:39] ::1:53200 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [05-02-2024 08:02:39] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [05-02-2024 08:02:39] ::1:53203 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:03:06] ::1:53206 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:03:07] ::1:53206 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:03:07] ::1:53208 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:03:57] ::1:53210 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:03:59] ::1:53210 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:03:59] ::1:53212 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:06:12] ::1:53216 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:06:15] ::1:53216 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:06:15] ::1:53218 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:06:42] ::1:53222 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:06:43] ::1:53222 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:06:43] ::1:53224 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:15:02] ::1:53262 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:15:02] ::1:53263 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:15:04] ::1:53262 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:15:04] ::1:53263 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:15:04] ::1:53262 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:15:04] ::1:53263 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:15:09] ::1:53268 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:16:30] ::1:53271 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:16:30] ::1:53272 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:16:31] ::1:53271 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:16:32] ::1:53272 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:16:32] ::1:53271 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 08:16:32] ::1:53272 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[33mWARNING[0m:  [05-02-2024 15:02:39] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [05-02-2024 15:02:40] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [05-02-2024 15:02:40] Starting component System
+[36mDEBUG[0m:    [05-02-2024 15:02:40] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [05-02-2024 15:02:40] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [05-02-2024 15:02:40] Starting component SqliteDB
+[36mDEBUG[0m:    [05-02-2024 15:02:40] Starting component Posthog
+[36mDEBUG[0m:    [05-02-2024 15:02:40] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [05-02-2024 15:02:40] Starting component SegmentAPI
+[32mINFO[0m:     [05-02-2024 15:02:40] Started server process [[36m7708[0m]
+[32mINFO[0m:     [05-02-2024 15:02:40] Waiting for application startup.
+[32mINFO[0m:     [05-02-2024 15:02:40] Application startup complete.
+[32mINFO[0m:     [05-02-2024 15:02:40] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[33mWARNING[0m:  [05-02-2024 17:34:36] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [05-02-2024 17:34:37] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [05-02-2024 17:34:37] Starting component System
+[36mDEBUG[0m:    [05-02-2024 17:34:37] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [05-02-2024 17:34:37] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [05-02-2024 17:34:37] Starting component SqliteDB
+[36mDEBUG[0m:    [05-02-2024 17:34:37] Starting component Posthog
+[36mDEBUG[0m:    [05-02-2024 17:34:37] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [05-02-2024 17:34:37] Starting component SegmentAPI
+[32mINFO[0m:     [05-02-2024 17:34:37] Started server process [[36m5212[0m]
+[32mINFO[0m:     [05-02-2024 17:34:37] Waiting for application startup.
+[32mINFO[0m:     [05-02-2024 17:34:37] Application startup complete.
+[32mINFO[0m:     [05-02-2024 17:34:37] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [05-02-2024 17:35:10] ::1:51134 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:35:10] ::1:51135 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:35:11] ::1:51134 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:35:11] ::1:51135 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [05-02-2024 17:35:12] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [05-02-2024 17:35:12] ::1:51134 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:35:12] ::1:51140 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:46:24] ::1:51216 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:46:25] ::1:51216 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:46:25] ::1:51221 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:47:50] ::1:51249 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:47:50] ::1:51249 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:47:50] ::1:51251 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:50:13] ::1:51256 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:50:14] ::1:51256 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:50:14] ::1:51258 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:51:44] ::1:51271 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:51:45] ::1:51271 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:51:46] ::1:51273 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:52:18] ::1:51274 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:52:19] ::1:51274 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:52:19] ::1:51276 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:54:11] ::1:51285 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:54:13] ::1:51285 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:54:13] ::1:51287 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:55:03] ::1:51292 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:55:04] ::1:51292 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:55:04] ::1:51294 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:55:05] ::1:51292 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:59:13] ::1:51325 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:59:15] ::1:51325 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:59:15] ::1:51327 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:59:17] ::1:51325 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:59:45] ::1:51335 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:59:46] ::1:51335 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:59:46] ::1:51337 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [05-02-2024 17:59:47] ::1:51335 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[33mWARNING[0m:  [06-02-2024 10:27:43] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [06-02-2024 10:27:43] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [06-02-2024 10:27:43] Starting component System
+[36mDEBUG[0m:    [06-02-2024 10:27:43] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [06-02-2024 10:27:43] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [06-02-2024 10:27:43] Starting component SqliteDB
+[36mDEBUG[0m:    [06-02-2024 10:27:44] Starting component Posthog
+[36mDEBUG[0m:    [06-02-2024 10:27:44] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [06-02-2024 10:27:44] Starting component SegmentAPI
+[32mINFO[0m:     [06-02-2024 10:27:44] Started server process [[36m1384[0m]
+[32mINFO[0m:     [06-02-2024 10:27:44] Waiting for application startup.
+[32mINFO[0m:     [06-02-2024 10:27:44] Application startup complete.
+[32mINFO[0m:     [06-02-2024 10:27:44] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [06-02-2024 10:28:20] ::1:52304 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:28:21] ::1:52304 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [06-02-2024 10:28:21] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [06-02-2024 10:28:21] ::1:52309 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:28:22] ::1:52304 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:29:11] ::1:52317 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:29:12] ::1:52317 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:29:12] ::1:52319 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:29:12] ::1:52317 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:33:07] ::1:52348 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:33:08] ::1:52348 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:33:09] ::1:52350 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:34:41] ::1:52373 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:40:39] ::1:52401 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:40:40] ::1:52401 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:40:40] ::1:52404 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:42:58] ::1:52411 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:42:59] ::1:52411 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:42:59] ::1:52413 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:44:43] ::1:52441 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:44:44] ::1:52441 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:44:44] ::1:52443 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:45:50] ::1:52453 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:45:51] ::1:52453 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:45:51] ::1:52455 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:46:21] ::1:52461 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:46:22] ::1:52461 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 10:46:22] ::1:52463 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:03:44] ::1:52600 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:03:44] ::1:52601 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:03:45] ::1:52600 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:03:45] ::1:52601 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:03:45] ::1:52600 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:03:45] ::1:52605 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:06:32] ::1:52644 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:06:32] ::1:52645 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:06:34] ::1:52644 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:06:34] ::1:52645 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:06:34] ::1:52644 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:06:34] ::1:52648 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:08:31] ::1:52654 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:08:31] ::1:52655 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:08:32] ::1:52654 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:08:32] ::1:52655 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:08:32] ::1:52654 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:08:32] ::1:52655 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:11:39] ::1:52669 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:36:08] ::1:52892 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:36:08] ::1:52893 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:36:08] ::1:52892 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:36:09] ::1:52893 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:36:09] ::1:52897 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:36:09] ::1:52892 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:36:12] ::1:52892 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:50:21] ::1:52983 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:50:21] ::1:52984 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:50:22] ::1:52984 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:50:22] ::1:52983 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:50:22] ::1:52984 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:50:22] ::1:52983 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 11:50:25] ::1:52984 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[33mWARNING[0m:  [06-02-2024 12:07:04] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [06-02-2024 12:07:05] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [06-02-2024 12:07:05] Starting component System
+[36mDEBUG[0m:    [06-02-2024 12:07:05] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [06-02-2024 12:07:05] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [06-02-2024 12:07:05] Starting component SqliteDB
+[36mDEBUG[0m:    [06-02-2024 12:07:05] Starting component Posthog
+[36mDEBUG[0m:    [06-02-2024 12:07:05] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [06-02-2024 12:07:05] Starting component SegmentAPI
+[32mINFO[0m:     [06-02-2024 12:07:05] Started server process [[36m4188[0m]
+[32mINFO[0m:     [06-02-2024 12:07:05] Waiting for application startup.
+[32mINFO[0m:     [06-02-2024 12:07:05] Application startup complete.
+[32mINFO[0m:     [06-02-2024 12:07:05] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [06-02-2024 12:07:09] ::1:53168 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:07:09] ::1:53169 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:07:10] ::1:53168 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:07:10] ::1:53169 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [06-02-2024 12:07:10] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [06-02-2024 12:07:10] ::1:53168 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:07:11] ::1:53174 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:07:14] ::1:53168 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:08:10] ::1:53175 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:08:11] ::1:53175 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:08:11] ::1:53177 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:08:22] ::1:53178 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:08:23] ::1:53178 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:08:23] ::1:53180 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:10:30] ::1:53186 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:10:30] ::1:53187 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:10:31] ::1:53186 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:10:31] ::1:53186 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:10:31] ::1:53187 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:10:31] ::1:53190 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:10:39] ::1:53192 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:13:52] ::1:53208 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:13:52] ::1:53209 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:13:53] ::1:53208 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:13:53] ::1:53209 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:13:54] ::1:53208 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:13:54] ::1:53209 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:13:58] ::1:53208 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:16:26] ::1:53243 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:16:26] ::1:53244 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:16:27] ::1:53243 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:16:27] ::1:53244 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:16:27] ::1:53243 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:16:27] ::1:53247 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:18:12] ::1:53249 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:18:12] ::1:53250 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:18:13] ::1:53249 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:18:13] ::1:53249 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:18:13] ::1:53250 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:18:13] ::1:53253 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:18:19] ::1:53255 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:18:38] ::1:53257 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:19:52] ::1:53260 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:19:52] ::1:53261 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:19:53] ::1:53260 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:19:53] ::1:53261 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:19:53] ::1:53260 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:19:53] ::1:53261 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:19:57] ::1:53260 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:21:59] ::1:53267 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:22:00] ::1:53267 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:22:00] ::1:53269 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:22:17] ::1:53270 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:22:18] ::1:53270 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:22:18] ::1:53272 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:22:46] ::1:53274 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:22:47] ::1:53274 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:22:47] ::1:53276 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:22:48] ::1:53274 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:23:28] ::1:53282 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:23:29] ::1:53282 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:23:29] ::1:53284 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:23:29] ::1:53282 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:35:13] ::1:53364 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:35:14] ::1:53364 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:35:14] ::1:53367 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:35:37] ::1:53369 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:35:38] ::1:53369 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:35:38] ::1:53371 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:37:44] ::1:53380 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:37:45] ::1:53380 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:37:45] ::1:53382 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:37:46] ::1:53380 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:39:26] ::1:53393 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:39:27] ::1:53393 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:39:27] ::1:53395 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:39:27] ::1:53393 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:40:08] ::1:53398 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:40:09] ::1:53398 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:40:09] ::1:53400 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:40:09] ::1:53398 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:41:43] ::1:53403 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:41:44] ::1:53403 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:41:44] ::1:53405 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [06-02-2024 12:41:44] ::1:53403 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[33mWARNING[0m:  [13-02-2024 07:04:36] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [13-02-2024 07:04:36] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [13-02-2024 07:04:36] Starting component System
+[36mDEBUG[0m:    [13-02-2024 07:04:36] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [13-02-2024 07:04:36] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [13-02-2024 07:04:36] Starting component SqliteDB
+[36mDEBUG[0m:    [13-02-2024 07:04:37] Starting component Posthog
+[36mDEBUG[0m:    [13-02-2024 07:04:37] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [13-02-2024 07:04:37] Starting component SegmentAPI
+[32mINFO[0m:     [13-02-2024 07:04:37] Started server process [[36m8104[0m]
+[32mINFO[0m:     [13-02-2024 07:04:37] Waiting for application startup.
+[32mINFO[0m:     [13-02-2024 07:04:37] Application startup complete.
+[32mINFO[0m:     [13-02-2024 07:04:37] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [13-02-2024 07:04:48] ::1:63274 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:04:50] ::1:63274 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [13-02-2024 07:04:50] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [13-02-2024 07:04:51] ::1:63277 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:07:23] ::1:63282 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:07:23] ::1:63283 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:07:24] ::1:63282 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:07:24] ::1:63283 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:07:25] ::1:63282 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:07:25] ::1:63283 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:15:29] ::1:63834 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:15:29] ::1:63835 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:15:31] ::1:63834 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:15:31] ::1:63835 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:15:31] ::1:63834 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:15:31] ::1:63835 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:15:35] ::1:63834 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:16:04] ::1:63840 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:16:15] ::1:63842 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:17:42] ::1:63851 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:37:24] ::1:63992 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:37:24] ::1:63993 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:37:25] ::1:63992 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:37:25] ::1:63993 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:37:26] ::1:63992 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:37:26] ::1:63993 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:37:32] ::1:64000 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:37:42] ::1:64002 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:37:54] ::1:64004 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:38:02] ::1:64007 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:52:04] ::1:64089 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:52:06] ::1:64089 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 07:52:06] ::1:64092 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 08:00:12] ::1:64193 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 08:00:12] ::1:64194 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 08:00:13] ::1:64194 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 08:00:13] ::1:64193 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 08:00:14] ::1:64194 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 08:00:14] ::1:64193 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 08:00:17] ::1:64194 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[32mINFO[0m:     [13-02-2024 08:00:49] ::1:64199 - "POST /api/v1/collections/900aa8a5-4e76-473e-b018-bfd12a54a02b/query HTTP/1.1" 200
+[33mWARNING[0m:  [14-02-2024 17:42:39] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [14-02-2024 17:42:40] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [14-02-2024 17:42:40] Starting component System
+[36mDEBUG[0m:    [14-02-2024 17:42:40] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [14-02-2024 17:42:40] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [14-02-2024 17:42:40] Starting component SqliteDB
+[36mDEBUG[0m:    [14-02-2024 17:42:40] Starting component Posthog
+[36mDEBUG[0m:    [14-02-2024 17:42:40] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [14-02-2024 17:42:40] Starting component SegmentAPI
+[32mINFO[0m:     [14-02-2024 17:42:40] Started server process [[36m13832[0m]
+[32mINFO[0m:     [14-02-2024 17:42:40] Waiting for application startup.
+[32mINFO[0m:     [14-02-2024 17:42:40] Application startup complete.
+[32mINFO[0m:     [14-02-2024 17:42:40] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [14-02-2024 17:43:16] ::1:55482 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [14-02-2024 17:43:40] ::1:55490 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[33mWARNING[0m:  [16-02-2024 12:29:37] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [16-02-2024 12:29:38] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [16-02-2024 12:29:38] Starting component System
+[36mDEBUG[0m:    [16-02-2024 12:29:38] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [16-02-2024 12:29:38] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [16-02-2024 12:29:38] Starting component SqliteDB
+[36mDEBUG[0m:    [16-02-2024 12:29:38] Starting component Posthog
+[36mDEBUG[0m:    [16-02-2024 12:29:38] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [16-02-2024 12:29:38] Starting component SegmentAPI
+[32mINFO[0m:     [16-02-2024 12:29:38] Started server process [[36m15204[0m]
+[32mINFO[0m:     [16-02-2024 12:29:38] Waiting for application startup.
+[32mINFO[0m:     [16-02-2024 12:29:38] Application startup complete.
+[32mINFO[0m:     [16-02-2024 12:29:38] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [16-02-2024 12:29:48] ::1:50274 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [16-02-2024 12:37:38] ::1:50353 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[33mWARNING[0m:  [18-02-2024 11:29:32] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [18-02-2024 11:29:33] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [18-02-2024 11:29:33] Starting component System
+[36mDEBUG[0m:    [18-02-2024 11:29:33] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [18-02-2024 11:29:33] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [18-02-2024 11:29:33] Starting component SqliteDB
+[36mDEBUG[0m:    [18-02-2024 11:29:33] Starting component Posthog
+[36mDEBUG[0m:    [18-02-2024 11:29:33] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [18-02-2024 11:29:33] Starting component SegmentAPI
+[32mINFO[0m:     [18-02-2024 11:29:33] Started server process [[36m11920[0m]
+[32mINFO[0m:     [18-02-2024 11:29:33] Waiting for application startup.
+[32mINFO[0m:     [18-02-2024 11:29:33] Application startup complete.
+[32mINFO[0m:     [18-02-2024 11:29:33] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [18-02-2024 11:29:42] ::1:53388 - "GET / HTTP/1.1" 404
+[32mINFO[0m:     [18-02-2024 11:29:44] ::1:53388 - "GET /favicon.ico HTTP/1.1" 404
+[32mINFO[0m:     [18-02-2024 11:30:39] ::1:53397 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[33mWARNING[0m:  [19-02-2024 10:17:25] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [19-02-2024 10:17:26] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [19-02-2024 10:17:26] Starting component System
+[36mDEBUG[0m:    [19-02-2024 10:17:26] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [19-02-2024 10:17:26] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [19-02-2024 10:17:26] Starting component SqliteDB
+[36mDEBUG[0m:    [19-02-2024 10:17:26] Starting component Posthog
+[36mDEBUG[0m:    [19-02-2024 10:17:26] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [19-02-2024 10:17:26] Starting component SegmentAPI
+[32mINFO[0m:     [19-02-2024 10:17:26] Started server process [[36m7212[0m]
+[32mINFO[0m:     [19-02-2024 10:17:26] Waiting for application startup.
+[32mINFO[0m:     [19-02-2024 10:17:26] Application startup complete.
+[32mINFO[0m:     [19-02-2024 10:17:26] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [19-02-2024 10:18:09] ::1:57596 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[33mWARNING[0m:  [21-02-2024 17:41:47] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [21-02-2024 17:41:47] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [21-02-2024 17:41:47] Starting component System
+[36mDEBUG[0m:    [21-02-2024 17:41:47] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [21-02-2024 17:41:47] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [21-02-2024 17:41:47] Starting component SqliteDB
+[36mDEBUG[0m:    [21-02-2024 17:41:47] Starting component Posthog
+[36mDEBUG[0m:    [21-02-2024 17:41:47] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [21-02-2024 17:41:47] Starting component SegmentAPI
+[32mINFO[0m:     [21-02-2024 17:41:48] Started server process [[36m15540[0m]
+[32mINFO[0m:     [21-02-2024 17:41:48] Waiting for application startup.
+[32mINFO[0m:     [21-02-2024 17:41:48] Application startup complete.
+[32mINFO[0m:     [21-02-2024 17:41:48] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [21-02-2024 17:47:39] ::1:57032 - "GET / HTTP/1.1" 404
+[32mINFO[0m:     [21-02-2024 17:47:39] ::1:57032 - "GET /favicon.ico HTTP/1.1" 404
+[32mINFO[0m:     [21-02-2024 17:48:37] ::1:57036 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
